@@ -1,0 +1,9 @@
+# Excel lock/temp files (transient, created while a workbook is open)
+~$*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
